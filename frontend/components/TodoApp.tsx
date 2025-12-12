@@ -86,7 +86,7 @@ export default function TodoApp() {
             <div className="p-3 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl shadow-lg shadow-purple-500/20">
               <ListTodo className="text-white w-6 h-6" />
             </div>
-            <h1 className="text-3xl font-bold text-white tracking-tight">Tasks</h1>
+            <h1 className="text-3xl font-bold text-white tracking-tight">Tasks updated , hell yeah</h1>
           </div>
 
           <div className="flex gap-3 mb-8">
